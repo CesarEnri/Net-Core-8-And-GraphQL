@@ -51,11 +51,19 @@
               "target": "Package",
               "version": "[10.0.0-insider.17, )"
             },
+            "GraphQL": {
+              "target": "Package",
+              "version": "[7.6.1, )"
+            },
             "GraphQL.Server.Transports.AspNetCore": {
               "target": "Package",
               "version": "[7.6.0, )"
             },
             "HotChocolate.AspNetCore": {
+              "target": "Package",
+              "version": "[13.6.0-preview.10, )"
+            },
+            "HotChocolate.Data": {
               "target": "Package",
               "version": "[13.6.0-preview.10, )"
             },

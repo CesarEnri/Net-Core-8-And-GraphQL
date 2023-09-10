@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "/Jdi/POaynZo84xj7V07vYdQ87ZBGqKw/Lr5Fc6UxmpWOqEa4WCwOuFXC7FJyOKD7cHQlmWqcjbabmCjJP3DTQ==",
+  "dgSpecHash": "339vsCv/JELksUCydzNqtRAyTX0Qbvi7hkWETgKr1BEnfiALHGhHQRM3nBgNe7ksFMvY8gZWofqc5zsiyxsYdQ==",
   "success": true,
   "projectFilePath": "E:\\repos\\Developer Projects\\Net-Core-8-And-GraphQL\\NetCoreWithGraphQL\\NetCoreWithGraphQL\\NetCoreWithGraphQL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cesar\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\cesar\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
     "C:\\Users\\cesar\\.nuget\\packages\\bananacakepop.middleware\\10.0.0-insider.17\\bananacakepop.middleware.10.0.0-insider.17.nupkg.sha512",
-    "C:\\Users\\cesar\\.nuget\\packages\\graphql\\7.6.0\\graphql.7.6.0.nupkg.sha512",
+    "C:\\Users\\cesar\\.nuget\\packages\\graphql\\7.6.1\\graphql.7.6.1.nupkg.sha512",
     "C:\\Users\\cesar\\.nuget\\packages\\graphql-parser\\8.4.0\\graphql-parser.8.4.0.nupkg.sha512",
     "C:\\Users\\cesar\\.nuget\\packages\\graphql.microsoftdi\\7.6.0\\graphql.microsoftdi.7.6.0.nupkg.sha512",
     "C:\\Users\\cesar\\.nuget\\packages\\graphql.server.transports.aspnetcore\\7.6.0\\graphql.server.transports.aspnetcore.7.6.0.nupkg.sha512",
@@ -17,6 +17,7 @@
     "C:\\Users\\cesar\\.nuget\\packages\\hotchocolate.abstractions\\13.6.0-preview.10\\hotchocolate.abstractions.13.6.0-preview.10.nupkg.sha512",
     "C:\\Users\\cesar\\.nuget\\packages\\hotchocolate.aspnetcore\\13.6.0-preview.10\\hotchocolate.aspnetcore.13.6.0-preview.10.nupkg.sha512",
     "C:\\Users\\cesar\\.nuget\\packages\\hotchocolate.authorization\\13.6.0-preview.10\\hotchocolate.authorization.13.6.0-preview.10.nupkg.sha512",
+    "C:\\Users\\cesar\\.nuget\\packages\\hotchocolate.data\\13.6.0-preview.10\\hotchocolate.data.13.6.0-preview.10.nupkg.sha512",
     "C:\\Users\\cesar\\.nuget\\packages\\hotchocolate.execution\\13.6.0-preview.10\\hotchocolate.execution.13.6.0-preview.10.nupkg.sha512",
     "C:\\Users\\cesar\\.nuget\\packages\\hotchocolate.execution.abstractions\\13.6.0-preview.10\\hotchocolate.execution.abstractions.13.6.0-preview.10.nupkg.sha512",
     "C:\\Users\\cesar\\.nuget\\packages\\hotchocolate.fetching\\13.6.0-preview.10\\hotchocolate.fetching.13.6.0-preview.10.nupkg.sha512",

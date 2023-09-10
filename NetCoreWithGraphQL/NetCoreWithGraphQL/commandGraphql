@@ -1,0 +1,10 @@
+﻿query{
+  superheroes{
+    name,
+    description,
+    superpowers(order: {superPower:DESC}){
+      superPower,
+      description
+    }
+  }
+}
